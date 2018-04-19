@@ -1,0 +1,9 @@
+nav {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav.navbar.navbar-inverse {
+    background-color: #3a3a3a;
+    border-color: #3a3a3a;
+    font-family: 'Open Sans', sans-serif;
+}

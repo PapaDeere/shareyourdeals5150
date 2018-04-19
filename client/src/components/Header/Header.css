@@ -1,0 +1,48 @@
+/* Header */
+.header {
+    background-image: url(https://images.unsplash.com/photo-1479670612349-3b5dba5179c7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f82fb039060893222958f424dec79c2c&auto=format&fit=crop&w=1072&q=80);
+    padding: 50px 0;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.section {
+    position: relative;
+}
+
+.header-inner {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+}
+
+.section-inner {
+    width: 1040px;
+    max-width: 86%;
+    margin: 0 auto;
+}
+
+.title-info {
+    display: inline-block;
+    padding: 30px;
+    background: #1d1d1d;
+}
+
+.title-title {
+    width: 100%;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+}
+
+#head-title {
+    color: white;
+}
+
+.title-description {
+    color: rgba(255,255,255,0.5);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.25;
+    text-align: center;
+}
