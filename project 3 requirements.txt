@@ -1,0 +1,20 @@
+have a utility
+real value to people
+research on other web/mobile applications
+serious time and thought
+report problems you are facing
+project management system
+dig deep into documentation and external resources
+
+
+
+reactJS or Angular
+Node and Express Web Server
+MySQL or Mongo DB with Sequelize or Mongoose ORM
+Full CRUD
+depolyed using Heroku with Data
+2 libraries, packages, or technolgies that we haven't discussed
+involve the authentication of users
+polished frontend / UI
+folder structure that meets MVC Paradigm
+good quality coding standards
