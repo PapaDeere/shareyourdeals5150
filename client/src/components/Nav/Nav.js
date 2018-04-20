@@ -1,6 +1,5 @@
 import React from "react";
 import "./Nav.css";
-// import Places from "./../pages/Places";
 
 const Nav = () => (
   <nav className="navbar navbar-inverse">
@@ -18,11 +17,12 @@ const Nav = () => (
       <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul className="nav navbar-nav">
           <li className="active"><a href="/">Home <span className="sr-only">(current)</span></a></li>
-          <li><a href="#">About Us?</a></li>
           <li><a href="/newentry">Add New Entry</a></li>
         </ul>
         <ul className="nav navbar-nav navbar-right">
+          <li><a href="/profile">Profile</a></li>
           <li><a href="index">Login</a></li>
+          <li><a href="/logout">Logout</a></li>
         </ul>
       </div>
     </div>

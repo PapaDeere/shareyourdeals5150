@@ -116,7 +116,7 @@ class NewEntry extends Component {
         </Row>
         <Row>
           <Col size="md-2">
-            <Link to="/">← Back to Home</Link>
+            <Link to="/"><i className="fas fa-long-arrow-alt-left"></i> Back to Home</Link>
           </Col>
         </Row>
       </Container>
